@@ -1,0 +1,1 @@
+This is an Inventory Tracking System designed to handle asset tracking and 
